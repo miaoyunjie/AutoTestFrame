@@ -1,0 +1,42 @@
+Sun, 16 Jul 2017 09:12:41 browser_engine.py[line:20] INFO 初始化火狐浏览器
+Sun, 16 Jul 2017 09:12:41 browser_engine.py[line:31] INFO 最大化浏览器窗口
+Sun, 16 Jul 2017 09:12:41 browser_engine.py[line:33] INFO 隐式等待10s
+Sun, 16 Jul 2017 09:12:43 basepage.py[line:64] INFO 成功发现元素 '  'by id via value: kw
+Sun, 16 Jul 2017 09:12:44 basepage.py[line:97] INFO Had type ' selenium ' in inputBox
+Sun, 16 Jul 2017 09:12:44 basepage.py[line:81] INFO 成功发现元素'  'by xpath via value: //*[@id='su']
+Sun, 16 Jul 2017 09:12:44 basepage.py[line:123] INFO The element '  ' was submited.
+Sun, 16 Jul 2017 09:12:46 basepage.py[line:128] INFO Current page title is selenium_百度搜索
+Sun, 16 Jul 2017 09:12:46 baidu_search.py[line:32] INFO Test Pass.
+Sun, 16 Jul 2017 09:12:46 basepage.py[line:64] INFO 成功发现元素 '  'by id via value: kw
+Sun, 16 Jul 2017 09:12:46 basepage.py[line:97] INFO Had type ' python ' in inputBox
+Sun, 16 Jul 2017 09:12:46 basepage.py[line:81] INFO 成功发现元素'  'by xpath via value: //*[@id='su']
+Sun, 16 Jul 2017 09:12:47 basepage.py[line:123] INFO The element '  ' was submited.
+Sun, 16 Jul 2017 09:12:49 basepage.py[line:128] INFO Current page title is python_百度搜索
+Sun, 16 Jul 2017 09:12:49 baidu_search.py[line:32] INFO Test Pass.
+Sun, 16 Jul 2017 09:12:49 basepage.py[line:64] INFO 成功发现元素 '  'by id via value: kw
+Sun, 16 Jul 2017 09:12:49 basepage.py[line:97] INFO Had type ' python ' in inputBox
+Sun, 16 Jul 2017 09:12:49 basepage.py[line:81] INFO 成功发现元素'  'by xpath via value: //*[@id='su']
+Sun, 16 Jul 2017 09:12:49 basepage.py[line:123] INFO The element '  ' was submited.
+Sun, 16 Jul 2017 09:12:51 basepage.py[line:128] INFO Current page title is python_百度搜索
+Sun, 16 Jul 2017 09:12:51 baidu_search.py[line:43] INFO Test Pass.
+Sun, 16 Jul 2017 09:13:40 browser_engine.py[line:20] INFO 初始化火狐浏览器
+Sun, 16 Jul 2017 09:13:40 browser_engine.py[line:31] INFO 最大化浏览器窗口
+Sun, 16 Jul 2017 09:13:40 browser_engine.py[line:33] INFO 隐式等待10s
+Sun, 16 Jul 2017 09:13:45 basepage.py[line:64] INFO 成功发现元素 '  'by id via value: kw
+Sun, 16 Jul 2017 09:13:45 basepage.py[line:97] INFO Had type ' selenium ' in inputBox
+Sun, 16 Jul 2017 09:13:46 basepage.py[line:81] INFO 成功发现元素'  'by xpath via value: //*[@id='su']
+Sun, 16 Jul 2017 09:13:46 basepage.py[line:123] INFO The element '  ' was submited.
+Sun, 16 Jul 2017 09:13:48 basepage.py[line:128] INFO Current page title is selenium_百度搜索
+Sun, 16 Jul 2017 09:13:48 baidu_search.py[line:32] INFO Test Pass.
+Sun, 16 Jul 2017 09:13:48 basepage.py[line:64] INFO 成功发现元素 '  'by id via value: kw
+Sun, 16 Jul 2017 09:13:48 basepage.py[line:97] INFO Had type ' python ' in inputBox
+Sun, 16 Jul 2017 09:13:48 basepage.py[line:81] INFO 成功发现元素'  'by xpath via value: //*[@id='su']
+Sun, 16 Jul 2017 09:13:48 basepage.py[line:123] INFO The element '  ' was submited.
+Sun, 16 Jul 2017 09:13:50 basepage.py[line:128] INFO Current page title is python_百度搜索
+Sun, 16 Jul 2017 09:13:50 baidu_search.py[line:32] INFO Test Pass.
+Sun, 16 Jul 2017 09:13:50 basepage.py[line:64] INFO 成功发现元素 '  'by id via value: kw
+Sun, 16 Jul 2017 09:13:51 basepage.py[line:97] INFO Had type ' python ' in inputBox
+Sun, 16 Jul 2017 09:13:51 basepage.py[line:81] INFO 成功发现元素'  'by xpath via value: //*[@id='su']
+Sun, 16 Jul 2017 09:13:51 basepage.py[line:123] INFO The element '  ' was submited.
+Sun, 16 Jul 2017 09:13:53 basepage.py[line:128] INFO Current page title is python_百度搜索
+Sun, 16 Jul 2017 09:13:53 baidu_search.py[line:43] INFO Test Pass.
